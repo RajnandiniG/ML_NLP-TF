@@ -12,20 +12,23 @@ The image prediction model is built using TensorFlow's Keras API. It uses a sequ
 #NLP Models Using BERT and Transformers
 It also includes various NLP tasks using the BERT model and the transformers library.
 
-1. Text Classification
-Classifying whole sentences into predefined categories.
+1. Text Classification: Classifying whole sentences into predefined categories.
 
-2. Token Classification
-Classifying each word in a sentence, useful for tasks like Named Entity Recognition (NER).
+2. Token Classification: Classifying each word in a sentence, useful for tasks like Named Entity Recognition (NER).
 
-3. Question Answering
-Answering questions based on a given context using BERT's question-answering pipeline.
+3. Question Answering: Answering questions based on a given context using BERT's question-answering pipeline.
 
-4. Text Summarization
-Summarizing long texts into concise summaries using transformers.
+4. Text Summarization: Summarizing long texts into concise summaries using transformers.
 
-5. Fill in the Blanks
-Using masked language models to fill in missing words in sentences.
+6. Fill in the Blanks: Using masked language models to fill in missing words in sentences.
 
-6. Translation
-Translating text from one language to another using transformers.
+7. Translation: Translating text from one language to another using transformers.
+
+8. Sample Reviews: A curated dataset showcasing diverse review texts.
+
+9. Sentiment Labels: Each review is labeled as 0 for negative sentiment and 1 for positive sentiment.
+
+10. Code Examples: Implementations demonstrating how to preprocess text data, train sentiment analysis models, and evaluate their performance.
+    
+Additionally, you can check out this cool article written by Maneesh Chaturvedi on Medium. Here's a link to it to get you a basic understanding.
+(https://maneesh-chaturvedi.medium.com/the-age-of-transformers-3ecbd660892c)

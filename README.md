@@ -29,6 +29,8 @@ It also includes various NLP tasks using the BERT model and the transformers lib
 9. Sentiment Labels: Each review is labeled as 0 for negative sentiment and 1 for positive sentiment.
 
 10. Code Examples: Implementations demonstrating how to preprocess text data, train sentiment analysis models, and evaluate their performance.
-    
+
+#Tip: While running the Google Colab notebook (https://colab.research.google.com/), make sure to select the runtime as T4 GPU. This will significantly speed up cell execution. If you don't select the T4 GPU, the process will take a lot more time to complete.
+
 Additionally, you can check out this cool article written by Maneesh Chaturvedi on Medium. Here's a link to it to get you a basic understanding.
 (https://maneesh-chaturvedi.medium.com/the-age-of-transformers-3ecbd660892c)

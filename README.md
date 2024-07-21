@@ -30,6 +30,14 @@ It also includes various NLP tasks using the BERT model and the transformers lib
 
 10. Code Examples: Implementations demonstrating how to preprocess text data, train sentiment analysis models, and evaluate their performance.
 
+#Yolo for Object detection in images
+1. Demonstrates how to perform image object detection using YOLO (You Only Look Once) versions 3 and 4.
+2. Interactive Jupyter notebooks to visualize detections and understand the model's performance.
+3. Below link of "AlexeyAB" github repo provide the files such as class names, pre-trained weights, configuration files, for easy setup of yolo version 3 and 4. You can find all the required files in the code from below repo,
+   a. https://github.com/AlexeyAB/darknet/blob/master/cfg/yolov3.cfg
+4. Inference: Load an image and perform object detection using the YOLOv4 model.
+5. Visualization: Visualize the detected objects with bounding boxes and class labels.
+   
 #Tip: While running the Google Colab notebook (https://colab.research.google.com/), make sure to select the runtime as T4 GPU. This will significantly speed up cell execution. If you don't select the T4 GPU, the process will take a lot more time to complete.
 
 Additionally, you can check out this cool article written by Maneesh Chaturvedi on Medium. Here's a link to it to get you a basic understanding.
